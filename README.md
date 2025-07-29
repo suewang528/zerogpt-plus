@@ -5,21 +5,7 @@ Welcome to ZeroGPT Plus, your essential tool for verifying the authenticity of c
 [ >> Click Here << ](https://www.zerogpt.plus/)
 
 ![zerogpt plus1](https://github.com/user-attachments/assets/fdca7359-b38c-499f-849a-c9e136911961)
-
-
-----------
-
-### **Table of Contents**
-
--   Why Do You Need ZeroGPT Plus?
-    
--   Core Functions of ZeroGPT Plus
-    
--   How to Use ZeroGPT Plus?
-    
--   Disclaimer
-    
-
+   
 ----------
 
 ### **Why Do You Need ZeroGPT Plus?**
