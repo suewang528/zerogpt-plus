@@ -33,22 +33,22 @@ Here are the key features that make ZeroGPT Plus a powerful and reliable assista
 
 **1. High-Accuracy AI Detection**
 
--   Our advanced model is fine-tuned to accurately distinguish between human and AI-written text from platforms like GPT-4, Claude, and other leading AI writers. The system provides a clear probability score to help you make an informed decision.
+Our advanced model is fine-tuned to accurately distinguish between human and AI-written text from platforms like GPT-4, Claude, and other leading AI writers. The system provides a clear probability score to help you make an informed decision.
     
 
 **2. Detailed Sentence Highlighting**
 
--   ZeroGPT Plus goes beyond a simple score. It highlights the specific sentences that have a high probability of being AI-generated, allowing for a more precise and efficient review process.
+ZeroGPT Plus goes beyond a simple score. It highlights the specific sentences that have a high probability of being AI-generated, allowing for a more precise and efficient review process.
     
 
 **3. Comprehensive & Instant Reports**
 
--   Get a complete summary of the analysis in seconds. The easy-to-understand report is perfect for academic feedback, content editing, or self-evaluation.
+Get a complete summary of the analysis in seconds. The easy-to-understand report is perfect for academic feedback, content editing, or self-evaluation.
     
 
 **4. Free and Accessible for Everyone**
 
--   We believe in providing open access to powerful tools. ZeroGPT Plus is completely free to use, making it an ideal choice for students, educators, and independent creators.
+We believe in providing open access to powerful tools. ZeroGPT Plus is completely free to use, making it an ideal choice for students, educators, and independent creators.
 
 ----------
 
